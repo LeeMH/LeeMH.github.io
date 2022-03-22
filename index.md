@@ -9,4 +9,4 @@ title: Welcome
 
 잘못된 내용에 대한 조언이나 의견등 언제든 환영입니다.
 
-email: lee.munhaeng@gmai.com
+email: lee.munhaeng@gmail.com
